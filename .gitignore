@@ -1,0 +1,24 @@
+## Build artifacts
+build/
+bin/
+iso/
+*.o
+*.bin
+*.iso
+*.img
+
+## Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## OS-specific
+.DS_Store
+Thumbs.db
+
+## Dependencies
+*.a
+*.so
+*.so.*
